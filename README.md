@@ -4,5 +4,6 @@ Release Proof is a Forge app that helps teams review a Jira version's work items
 
 - [Report an issue or ask a question](https://github.com/LeeJinMing/release-proof-for-jira/issues)
 - [Read the privacy notice](PRIVACY.md)
+- [Install the app and reproduce the three-issue walkthrough](JUDGE-GUIDE.md)
 
 GitHub Issues is public. Use synthetic examples and remove sensitive information from logs, screenshots, and work item details.
